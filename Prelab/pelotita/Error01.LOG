@@ -1,0 +1,7 @@
+
+Error fatal en Converter: 
+Error: La referencia al subíndice no es válida.
+Número de error: 31
+Método: rptconvert
+Código que produce el error: DIMENSION ...
+Archivo que se está procesando: d:\pelota rebotando luz\form1.frx

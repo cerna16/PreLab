@@ -1,0 +1,7 @@
+
+Error fatal en Converter: 
+Error: No se encuentra el alias 'S8091486'.
+Número de error: 13
+Método: writeresult
+Código que produce el error: SELECT ...
+Archivo que se está procesando: d:\pelota rebotando luz\form1.frx
